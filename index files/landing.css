@@ -70,3 +70,19 @@
     
 }
 
+
+footer {
+    margin-top: 150px;
+    margin-left: 50px;
+}
+
+.logo ul li{
+    list-style-type: none;
+    display: inline;
+}
+
+.fa-brands{
+    margin-left: 10px;
+    color: white;
+    background-color: black;
+}
