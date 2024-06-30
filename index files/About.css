@@ -71,17 +71,26 @@ section{
 }
 
 .footer{
-   margin-left: 220px;
+   margin-left: 140px;
    margin-top: 50px;
-   color: rgb(233, 217, 217);
+   color: rgb(134, 76, 76);
    font-size: larger;
+   
+}
+
+hr{
+   color: rgb(134, 76, 76);
+   width: 100vh;
 }
 
 .second-footer{
-   margin-left: 180px;
+   margin-left: 140px;
+   margin-top: 30px;
+   margin-bottom: 10px;
    color: rgb(233, 217, 217);
 }
 
-#first-hr{
-   
+.second-footer h3{
+   font-size: 40px;
+   font-weight: bold;
 }
